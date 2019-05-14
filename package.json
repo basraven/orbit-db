@@ -25,7 +25,7 @@
     "orbit-db-eventstore": "~1.5.0",
     "orbit-db-feedstore": "~1.5.0",
     "orbit-db-identity-provider": "~0.1.0",
-    "orbit-db-io": "~0.0.1",
+    "orbit-db-io": "github:orbitdb/orbit-db-io#feat/pass-format",
     "orbit-db-keystore": "~0.2.0",
     "orbit-db-kvstore": "~1.5.0",
     "orbit-db-pubsub": "~0.5.5",
